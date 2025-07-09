@@ -1,0 +1,9 @@
+##### Exercicio 2 #####
+
+db.biblioteca.find( {status: {$ne: "PUBLISH"}, pageCount: {$lte: 300}}, {title: 1, pageCount: 1, status: 1}).count()
+
+db.biblioteca.find( { $or: [ { title: {$regex: /MongoDB/}}, {title: {$regex: /SQL Server/}}]}, {title: 1}).count()
+
+db.biblioteca.find( {isbn: {$regex: /^18/}}, {isbn: 1}).count()
+
+db.biblioteca.find( {$or: [ {longDescription: {$regex: /JAVA/}}, {longDescription: {$regex: /.obile/}}]}, {title: 1, longDescription: 1}).count()

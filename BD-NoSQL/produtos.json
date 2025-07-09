@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Panela Elétrica",
+        "preco": 100.3,
+        "voltagem": [
+            "110V",
+            "220V"
+        ],
+        "dimensoes": {
+            "comprimento": 20,
+            "altura": 5,
+            "profundidade": 25
+        }
+    },
+    {
+        "nome": "TV",
+        "preco": 1000,
+        "voltagem": [
+            "110V"
+        ],
+        "dimensoes": {
+            "comprimento": 150,
+            "altura": 110,
+            "profundidade": 10
+        }
+    },
+    {
+        "nome": "PS5",
+        "preco": 5000,
+        "voltagem": [
+            "110V",
+            "220V"
+        ]
+    },
+    {
+        "nome": "Cama casal",
+        "preco": 1000,
+        "dimensoes": {
+            "comprimento": 138,
+            "altura": 60,
+            "profundidade": 188
+        }
+    },
+    {
+        "nome": "Mixer 3 em 1",
+        "preco": 200,
+        "marca": "Oster",
+        "portatil": true
+    }
+]

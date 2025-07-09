@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Fábio",
+        "nota": 7,
+        "curso": "QA"
+    },
+    {
+        "nome": "Alice",
+        "nota": 9,
+        "curso": "SQL"
+    },
+    {
+        "nome": "Alan",
+        "cargo": "Professor",
+        "curso": "QA"
+    },
+    {
+        "nome": "Mariana",
+        "cargo": "Professora",
+        "curso": ["QA", "FrontEnd", "MongoDB"]
+    }, 
+    {
+        "nome": "João",
+        "nota": 7,
+        "curso": "QA"
+    },
+    {
+        "nome": "Paulo",
+        "nota": 5,
+        "curso": "Dev"
+    },
+    {
+        "nome": "Maria",
+        "nota": 8,
+        "curso": "QA"
+    },
+    {
+        "nome": "José",
+        "nota": 4,
+        "curso": "SQL"
+    },
+    {
+        "nome": "Ana",
+        "nota": 9,
+        "curso": "QA"
+    },
+    {
+        "nome": "José Pedro",
+        "nota": 7,
+        "curso": "UX"
+    }
+]
